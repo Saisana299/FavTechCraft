@@ -100,9 +100,6 @@ CurseForgeにて公開しているmodpackの解説
 [XNet](https://www.curseforge.com/minecraft/mc-mods/xnet)  
 
 #### [遠距離武器・TNT・乗り物・レッドストーン]  
-◆乗り物・エレベータ  
-[Rails of War](https://www.curseforge.com/minecraft/mc-mods/rails-of-war)  
-
 ◆レッドストーン関連  
 [Redstone Paste](https://www.curseforge.com/minecraft/mc-mods/redstone-paste)  
 
