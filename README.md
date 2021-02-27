@@ -1,0 +1,2 @@
+# FavTechCraft
+CurseForgeにて公開しているmodpackの解説
