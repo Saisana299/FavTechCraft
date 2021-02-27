@@ -5,29 +5,29 @@ CurseForgeにて公開しているmodpackの解説
 #### [大規模]  
 ◆複合的要素  
 [Pam's Mods](https://www.curseforge.com/members/pamharvestcraft/projects)  
-	[Pam's HarvestCraft](https://www.curseforge.com/minecraft/mc-mods/pams-harvestcraft)  
-	[Pam's BrewCraft](https://www.curseforge.com/minecraft/mc-mods/pams-brewcraft)  
+-- [Pam's HarvestCraft](https://www.curseforge.com/minecraft/mc-mods/pams-harvestcraft)  
+-- [Pam's BrewCraft](https://www.curseforge.com/minecraft/mc-mods/pams-brewcraft)  
 [Tinkers Construct 2](https://www.curseforge.com/minecraft/mc-mods/tinkers-construct)  
 
 ◆工業系  
 [Ender IO](https://www.curseforge.com/minecraft/mc-mods/ender-io)  
-	[Open Modular Turrets](https://www.curseforge.com/minecraft/mc-mods/openmodularturrets)  
+-- [Open Modular Turrets](https://www.curseforge.com/minecraft/mc-mods/openmodularturrets)  
 [Forestry](http://forestryforminecraft.info/)  
 [Immersive Engineering](https://www.curseforge.com/minecraft/mc-mods/immersive-engineering)  
 [IndustrialCraft² experimental](https://www.curseforge.com/minecraft/mc-mods/industrial-craft)  
-	[Advanced Machines](https://www.curseforge.com/minecraft/mc-mods/advanced-machines)  
-	[Advanced Solar Panels](https://www.curseforge.com/minecraft/mc-mods/advanced-solar-panels)  
-	[Compact Solars](https://www.curseforge.com/minecraft/mc-mods/compact-solars)  
-	[CompositeGear](https://www.curseforge.com/minecraft/mc-mods/compositegear)  
-	[Gravitation Suite](https://www.curseforge.com/minecraft/mc-mods/gravitation-suite)  
+-- [Advanced Machines](https://www.curseforge.com/minecraft/mc-mods/advanced-machines)  
+-- [Advanced Solar Panels](https://www.curseforge.com/minecraft/mc-mods/advanced-solar-panels)  
+-- [Compact Solars](https://www.curseforge.com/minecraft/mc-mods/compact-solars)  
+-- [CompositeGear](https://www.curseforge.com/minecraft/mc-mods/compositegear)  
+-- [Gravitation Suite](https://www.curseforge.com/minecraft/mc-mods/gravitation-suite)  
 [Mekanism](https://www.curseforge.com/members/bradyaidanc/projects)  
 [Thermal Foundation](https://www.curseforge.com/minecraft/mc-mods/thermal-foundation)  
-	[Thermal Expansion](https://www.curseforge.com/minecraft/mc-mods/thermalexpansion)  
-	[Thermal Dynamics](https://www.curseforge.com/minecraft/mc-mods/thermal-dynamics)  
-	[Redstone Arsenal](https://www.curseforge.com/minecraft/mc-mods/redstone-arsenal)  
-		[Redstone Repository Revolved](https://www.curseforge.com/minecraft/mc-mods/redstone-repository-revolved)  
-	[Simply Jetpacks 2](https://www.curseforge.com/minecraft/mc-mods/simply-jetpacks-2)  
-	[ThermalLogistics](https://www.curseforge.com/minecraft/mc-mods/thermallogistics)  
+-- [Thermal Expansion](https://www.curseforge.com/minecraft/mc-mods/thermalexpansion)  
+-- [Thermal Dynamics](https://www.curseforge.com/minecraft/mc-mods/thermal-dynamics)  
+-- [Redstone Arsenal](https://www.curseforge.com/minecraft/mc-mods/redstone-arsenal)  
+	-- [Redstone Repository Revolved](https://www.curseforge.com/minecraft/mc-mods/redstone-repository-revolved)  
+-- [Simply Jetpacks 2](https://www.curseforge.com/minecraft/mc-mods/simply-jetpacks-2)  
+-- [ThermalLogistics](https://www.curseforge.com/minecraft/mc-mods/thermallogistics)  
 
 ◆魔術系  
 [Botania](https://www.curseforge.com/minecraft/mc-mods/botania)  
@@ -35,16 +35,16 @@ CurseForgeにて公開しているmodpackの解説
 #### [中規模]  
 ◆工業系  
 [Draconic Evolution](https://www.curseforge.com/minecraft/mc-mods/draconic-evolution)  
-	[Draconic Additions](https://www.curseforge.com/minecraft/mc-mods/draconicadditions)  
+-- [Draconic Additions](https://www.curseforge.com/minecraft/mc-mods/draconicadditions)  
 [Extra Utilities 2](https://www.curseforge.com/minecraft/mc-mods/extra-utilities)  
 [Integrated Dynamics](https://www.curseforge.com/minecraft/mc-mods/integrated-dynamics)  
 [NuclearCraft](https://www.curseforge.com/minecraft/mc-mods/nuclearcraft-mod)  
 [OpenComputers](https://www.curseforge.com/minecraft/mc-mods/opencomputers)  
 [Refined Storage](https://www.curseforge.com/minecraft/mc-mods/refined-storage)  
-	[Refined Storage Addons](https://www.curseforge.com/minecraft/mc-mods/refined-storage-addons)  
-	[Refined Storage: Requestify](https://www.curseforge.com/minecraft/mc-mods/rs-requestify)  
-	[RSInfiniteWireless](https://www.curseforge.com/minecraft/mc-mods/rsinfinitewireless)  
-	[Storage Tech](https://www.curseforge.com/minecraft/mc-mods/storage-tech)  
+-- [Refined Storage Addons](https://www.curseforge.com/minecraft/mc-mods/refined-storage-addons)  
+-- [Refined Storage: Requestify](https://www.curseforge.com/minecraft/mc-mods/rs-requestify)  
+-- [RSInfiniteWireless](https://www.curseforge.com/minecraft/mc-mods/rsinfinitewireless)  
+-- [Storage Tech](https://www.curseforge.com/minecraft/mc-mods/storage-tech)  
 [RFTools](https://www.curseforge.com/minecraft/mc-mods/rftools)  
 [Woot](https://www.curseforge.com/minecraft/mc-mods/woot)  
 
@@ -52,8 +52,8 @@ CurseForgeにて公開しているmodpackの解説
 [Astral Sorcery](https://www.curseforge.com/minecraft/mc-mods/astral-sorcery)  
 [Electroblob's Wizardry](https://www.curseforge.com/minecraft/mc-mods/electroblobs-wizardry)  
 [Embers](https://www.curseforge.com/minecraft/mc-mods/embers)  
-	[Soot](https://www.curseforge.com/minecraft/mc-mods/soot)  
-	[Embers Rekindled](https://www.curseforge.com/minecraft/mc-mods/embers-rekindled)  
+-- [Soot](https://www.curseforge.com/minecraft/mc-mods/soot)  
+-- [Embers Rekindled](https://www.curseforge.com/minecraft/mc-mods/embers-rekindled)  
 [Wizardry](https://www.curseforge.com/minecraft/mc-mods/wizardry-mod)  
 
 ◆便利アイテム追加  
@@ -75,10 +75,10 @@ CurseForgeにて公開しているmodpackの解説
 [レシピ・インベントリ・マシン・ユーティリティ]  
 ◆レシピブック  
 [Just Enough Items](https://www.curseforge.com/minecraft/mc-mods/jei)  
-	[FindMe](https://www.curseforge.com/minecraft/mc-mods/findme)  
-	[JEI Integration](https://www.curseforge.com/minecraft/mc-mods/jei-integration)  
-	[Just Enough Resources (JER)](https://www.curseforge.com/minecraft/mc-mods/just-enough-resources-jer)  
-	[TheBOMPlugin](https://www.curseforge.com/minecraft/mc-mods/thebomplugin)  
+-- [FindMe](https://www.curseforge.com/minecraft/mc-mods/findme)  
+-- [JEI Integration](https://www.curseforge.com/minecraft/mc-mods/jei-integration)  
+-- [Just Enough Resources (JER)](https://www.curseforge.com/minecraft/mc-mods/just-enough-resources-jer)  
+-- [TheBOMPlugin](https://www.curseforge.com/minecraft/mc-mods/thebomplugin)  
 
 ◆バックパック  
 [Backpacks](https://www.curseforge.com/minecraft/mc-mods/forge-backpacks)  
@@ -135,7 +135,7 @@ CurseForgeにて公開しているmodpackの解説
 
 ◆総合系MOD（デバッグ・各種検証用）  
 [The One Probe](https://www.curseforge.com/minecraft/mc-mods/the-one-probe)  
-	[TOP Addons](https://www.curseforge.com/minecraft/mc-mods/top-addons)  
+-- [TOP Addons](https://www.curseforge.com/minecraft/mc-mods/top-addons)  
 
 #### [コンフィグ拡張・システム改善系MOD]  
 ◆FPS向上・負荷軽減  
@@ -193,7 +193,7 @@ CurseForgeにて公開しているmodpackの解説
 
 ◆レシピ編集  
 [CraftTweaker](https://www.curseforge.com/minecraft/mc-mods/crafttweaker)  
-	[ModTweaker](https://www.curseforge.com/minecraft/mc-mods/modtweaker)  
+-- [ModTweaker](https://www.curseforge.com/minecraft/mc-mods/modtweaker)  
 
 #### [既存のゲーム性に変更を加えるMOD（後半）]  
 ◆樹木・植物・資源  
