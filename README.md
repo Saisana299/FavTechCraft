@@ -169,7 +169,6 @@ CurseForgeにて公開しているmodpackの解説
 ◆満腹度・疲労・睡眠  
 [Morpheus](https://www.curseforge.com/minecraft/mc-mods/morpheus)  
 [Spice of Life: Carrot Edition](https://www.curseforge.com/minecraft/mc-mods/spice-of-life-carrot-edition)  
-[The Spice Of Life](https://www.curseforge.com/minecraft/mc-mods/the-spice-of-life)  
 
 ◆ナビゲーションマップ  
 [JourneyMap](https://www.curseforge.com/minecraft/mc-mods/journeymap)  
