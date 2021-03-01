@@ -209,3 +209,6 @@ ver1.0.6
 [Techguns](https://www.curseforge.com/minecraft/mc-mods/techguns/screenshots)  
 [Railcraft](https://www.curseforge.com/minecraft/mc-mods/railcraft)  
 [Thaumcraft](https://www.curseforge.com/minecraft/mc-mods/thaumcraft)  
+
+《modpackには含まれてないが導入推奨のもの》  
+[stimmedcow : NoMoreRecipeConflict](https://www.curseforge.com/minecraft/mc-mods/stimmedcow-nomorerecipeconflict/download/2671230)
