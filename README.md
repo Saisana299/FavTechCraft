@@ -1,5 +1,6 @@
 # FavTechCraft
 CurseForgeにて公開しているmodpackの解説  
+ver1.0.6  
 
 ### 新要素追加系  
 #### [大規模]  
@@ -161,7 +162,6 @@ CurseForgeにて公開しているmodpackの解説
 [Neat](https://www.curseforge.com/minecraft/mc-mods/neat)  
 
 ◆インベントリ・クラフト画面  
-[Crafting EX](https://www.curseforge.com/minecraft/mc-mods/craftingex)  
 [Inventory Tweaks](https://www.curseforge.com/minecraft/mc-mods/inventory-tweaks)  
 [Mouse Tweaks](https://www.curseforge.com/minecraft/mc-mods/mouse-tweaks)  
 [TrashSlot](https://www.curseforge.com/minecraft/mc-mods/trashslot)  
