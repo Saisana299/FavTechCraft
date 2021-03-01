@@ -1,6 +1,7 @@
 # FavTechCraft
 CurseForgeにて公開しているmodpackの解説  
 ver1.0.6  
+DL: https://www.curseforge.com/minecraft/modpacks/favtechcraft  
 
 ### 新要素追加系  
 #### [大規模]  
@@ -62,8 +63,8 @@ ver1.0.6
 
 ◆新dimensionの追加  
 [Galacticraft](https://micdoodle8.com/mods/galacticraft/downloads)  
-[Into The Maelstrom](https://www.curseforge.com/minecraft/mc-mods/into-the-maelstrom)  
-[The Midnight](https://www.curseforge.com/minecraft/mc-mods/the-midnight)  
+-- [ExtraPlanets](https://www.curseforge.com/minecraft/mc-mods/extraplanets)  
+[Into The Maelstrom](https://www.curseforge.com/minecraft/mc-mods/into-the-maelstrom)   
 
 #### [ツール・武器・防具・新鉱石]  
 ◆ツール・武器・防具  
@@ -203,12 +204,14 @@ ver1.0.6
 [Default Options](https://www.curseforge.com/minecraft/mc-mods/default-options)  
 [AI Improvements](https://www.curseforge.com/minecraft/mc-mods/ai-improvements)  
 
-《追加mod》  
+《そのほか追加mod》  
 [Roguelike Dungeons](https://www.curseforge.com/minecraft/mc-mods/roguelike-dungeons/screenshots)  
 [AutoPackager](https://www.curseforge.com/minecraft/mc-mods/autopackager)  
 [Techguns](https://www.curseforge.com/minecraft/mc-mods/techguns/screenshots)  
 [Railcraft](https://www.curseforge.com/minecraft/mc-mods/railcraft)  
 [Thaumcraft](https://www.curseforge.com/minecraft/mc-mods/thaumcraft)  
+[Mod Name Tooltip](https://www.curseforge.com/minecraft/mc-mods/mod-name-tooltip)  
 
 《modpackには含まれてないが導入必須のもの》  
-[stimmedcow : NoMoreRecipeConflict](https://www.curseforge.com/minecraft/mc-mods/stimmedcow-nomorerecipeconflict/download/2671230)
+[stimmedcow : NoMoreRecipeConflict](https://www.curseforge.com/minecraft/mc-mods/stimmedcow-nomorerecipeconflict/download/2671230)  
+[StorageBox](https://www.curseforge.com/minecraft/mc-mods/break-all-of-the-same-block-and-more/files/2740442)  
