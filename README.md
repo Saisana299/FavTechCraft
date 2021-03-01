@@ -210,5 +210,5 @@ ver1.0.6
 [Railcraft](https://www.curseforge.com/minecraft/mc-mods/railcraft)  
 [Thaumcraft](https://www.curseforge.com/minecraft/mc-mods/thaumcraft)  
 
-《modpackには含まれてないが導入推奨のもの》  
+《modpackには含まれてないが導入必須のもの》  
 [stimmedcow : NoMoreRecipeConflict](https://www.curseforge.com/minecraft/mc-mods/stimmedcow-nomorerecipeconflict/download/2671230)
