@@ -1,6 +1,6 @@
 # FavTechCraft
 CurseForgeにて公開しているmodpackの解説  
-ver1.0.7  
+ver1.0.8  
 DL: https://www.curseforge.com/minecraft/modpacks/favtechcraft  
 
 ### 新要素追加系  
@@ -211,6 +211,7 @@ DL: https://www.curseforge.com/minecraft/modpacks/favtechcraft
 [Railcraft](https://www.curseforge.com/minecraft/mc-mods/railcraft)  
 [Thaumcraft](https://www.curseforge.com/minecraft/mc-mods/thaumcraft)  
 [Mod Name Tooltip](https://www.curseforge.com/minecraft/mc-mods/mod-name-tooltip)  
+[Mekanism Generators](https://www.curseforge.com/minecraft/mc-mods/mekanism-generators)  
 
 《modpackには含まれてないが導入必須のもの》  
 [stimmedcow : NoMoreRecipeConflict](https://www.curseforge.com/minecraft/mc-mods/stimmedcow-nomorerecipeconflict/download/2671230)  
