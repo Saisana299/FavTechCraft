@@ -1,6 +1,6 @@
 # FavTechCraft
 CurseForgeにて公開しているmodpackの解説  
-ver1.0.8  
+ver1.0.9  
 DL: https://www.curseforge.com/minecraft/modpacks/favtechcraft  
 
 ### 新要素追加系  
@@ -212,6 +212,8 @@ DL: https://www.curseforge.com/minecraft/modpacks/favtechcraft
 [Thaumcraft](https://www.curseforge.com/minecraft/mc-mods/thaumcraft)  
 [Mod Name Tooltip](https://www.curseforge.com/minecraft/mc-mods/mod-name-tooltip)  
 [Mekanism Generators](https://www.curseforge.com/minecraft/mc-mods/mekanism-generators)  
+[Genetics Reborn](https://www.curseforge.com/minecraft/mc-mods/genetics-reborn)  
+[The Last Smith](https://www.curseforge.com/minecraft/mc-mods/the-last-smith)  
 
 《modpackには含まれてないが導入必須のもの》  
 [stimmedcow : NoMoreRecipeConflict](https://www.curseforge.com/minecraft/mc-mods/stimmedcow-nomorerecipeconflict/download/2671230)  
