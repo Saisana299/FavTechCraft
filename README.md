@@ -63,7 +63,6 @@ DL: https://www.curseforge.com/minecraft/modpacks/favtechcraft
 
 ◆新dimensionの追加  
 [Galacticraft](https://micdoodle8.com/mods/galacticraft/downloads)  
--- [ExtraPlanets](https://www.curseforge.com/minecraft/mc-mods/extraplanets)  
 [Into The Maelstrom](https://www.curseforge.com/minecraft/mc-mods/into-the-maelstrom)   
 
 #### [ツール・武器・防具・新鉱石]  
@@ -214,7 +213,8 @@ DL: https://www.curseforge.com/minecraft/modpacks/favtechcraft
 [Mekanism Generators](https://www.curseforge.com/minecraft/mc-mods/mekanism-generators)  
 [Genetics Reborn](https://www.curseforge.com/minecraft/mc-mods/genetics-reborn)  
 [The Last Smith](https://www.curseforge.com/minecraft/mc-mods/the-last-smith)  
+[Galaxy Space](https://www.curseforge.com/minecraft/mc-mods/galaxy-space-addon-for-galacticraft)  
 
 《modpackには含まれてないが導入必須のもの》  
-[stimmedcow : NoMoreRecipeConflict](https://www.curseforge.com/minecraft/mc-mods/stimmedcow-nomorerecipeconflict/download/2671230)  
+[stimmedcow : NoMoreRecipeConflict](https://www.curseforge.com/minecraft/mc-mods/stimmedcow-nomorerecipeconflict)  
 [StorageBox](https://www.curseforge.com/minecraft/mc-mods/break-all-of-the-same-block-and-more/files/2740442)  
