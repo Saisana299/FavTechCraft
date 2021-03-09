@@ -1,6 +1,6 @@
 # FavTechCraft
 CurseForgeにて公開しているmodpackの解説  
-ver1.0.11  
+ver1.1.0  
 DL: https://www.curseforge.com/minecraft/modpacks/favtechcraft  
 
 ### 新要素追加系  
@@ -213,6 +213,8 @@ DL: https://www.curseforge.com/minecraft/modpacks/favtechcraft
 [Mekanism Generators](https://www.curseforge.com/minecraft/mc-mods/mekanism-generators)  
 [Genetics Reborn](https://www.curseforge.com/minecraft/mc-mods/genetics-reborn)  
 [The Last Smith](https://www.curseforge.com/minecraft/mc-mods/the-last-smith)  
+[More Planets](https://www.curseforge.com/minecraft/mc-mods/more-planets-gc-addon)  
+[Mixin 0.7-0.8 Compatibility](https://www.curseforge.com/minecraft/mc-mods/mixin-0-7-0-8-compatibility)  
 
 《modpackには含まれてないが導入必須のもの》  
 [stimmedcow : NoMoreRecipeConflict](https://www.curseforge.com/minecraft/mc-mods/stimmedcow-nomorerecipeconflict)  
