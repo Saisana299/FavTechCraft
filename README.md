@@ -1,6 +1,6 @@
 # FavTechCraft
 CurseForgeにて公開しているmodpackの解説  
-ver1.0.
+ver1.0.11  
 DL: https://www.curseforge.com/minecraft/modpacks/favtechcraft  
 
 ### 新要素追加系  
